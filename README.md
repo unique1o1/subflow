@@ -15,7 +15,7 @@ The project is based on [howdoi](https://github.com/gleitz/howdoi) and [sublime-
 
 2. Clone this repo into `Packages` directory [Sublime Text 2 menu >> Preferences >> Browse Packages...]  
   ```
-  git clone https://github.com/amitness/subflow
+  git clone https://github.com/unique1o1/subflow
   ```
 
 #### Usage
